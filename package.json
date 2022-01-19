@@ -1,0 +1,11 @@
+{
+  "name": "hof-example-app-schema",
+  "version": "1.0.0",
+  "main": "knexfile.js",
+  "repository": "https://github.com/UKHomeOffice/hof-example-app-schema.git",
+  "author": "Robert McCann and Alice Lui",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^1.0.1"
+  }
+}
