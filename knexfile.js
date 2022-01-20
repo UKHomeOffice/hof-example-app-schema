@@ -6,7 +6,7 @@ module.exports = {
     client: 'pg',
     connection: {
       database: 'hof_example_app_form',
-      user:     'knex',
+      user: 'knex',
       password: 'knex'
     },
     pool: {

@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "eslint": "^8.7.0",
-    "eslint-config-hof": "../eslint-config-hof"
+    "eslint-config-hof": "^1.3.1"
   }
 }
